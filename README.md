@@ -4,7 +4,7 @@ Stops the server in an amount of seconds.
 
 # Usage:
 
-/stopserver <seconds>
+/stopserver (seconds)
 
 # Install
 
